@@ -1,0 +1,12 @@
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\bin\Debug\net5.0\TestLib.deps.json
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\bin\Debug\net5.0\TestLib.dll
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\bin\Debug\net5.0\ref\TestLib.dll
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\bin\Debug\net5.0\TestLib.pdb
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.AssemblyInfoInputs.cache
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.AssemblyInfo.cs
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.dll
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\ref\TestLib.dll
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.pdb
+C:\Users\zakha\Desktop\Test\LibTest\TestLib\obj\Debug\net5.0\TestLib.csprojAssemblyReference.cache
